@@ -19,3 +19,13 @@
 
 # Go workspace file
 go.work
+go.sum
+
+#
+.idea
+.DS_Store
+
+#
+_output
+output
+
